@@ -1,4 +1,4 @@
-# Langchain-Chat-With-SQLDB - ChatSQL: Natural Language Database Interaction
+# ChatSQL: Natural Language Database Interaction
 
 Live Demo video :- https://drive.google.com/file/d/1sg52mlRcD4s9YDyAZ7SvhG8EBUsnBU8O/view?usp=sharing
 
